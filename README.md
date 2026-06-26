@@ -89,17 +89,6 @@ I'm <b>Sara Ayman</b>, a passionate <b>Software Engineering Student</b> who enjo
 </tbody>
 </table>
 
-<h3>📈 GitHub Statistics</h3>
-
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=sara-aymann&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-aymann&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <h3>🌟 Goals for 2026</h3>
 
