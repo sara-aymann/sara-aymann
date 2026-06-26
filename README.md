@@ -30,9 +30,6 @@ I'm <b>Sara Ayman</b>, a passionate <b>Software Engineering Student</b> who enjo
 
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
@@ -42,7 +39,6 @@ I'm <b>Sara Ayman</b>, a passionate <b>Software Engineering Student</b> who enjo
 
 <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 </p>
 
 <h3>📚 Currently Learning</h3>
@@ -98,10 +94,10 @@ I'm <b>Sara Ayman</b>, a passionate <b>Software Engineering Student</b> who enjo
 <p align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=sara-aymann&show_icons=true&theme=tokyonight"/>
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-aymann&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -119,12 +115,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 
 <p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+<a href="https://github.com/sara-aymann" target="_blank">
 <img alt="GitHub"
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/sara-ayman-010259363 " target="_blank">
 <img alt="LinkedIn"
 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
